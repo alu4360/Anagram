@@ -1,3 +1,9 @@
+Esto es lo que salia en el fichero tras detectar el fichero. Lo dejamos como editado el conflicto asi.
+
+<<<<<<< HEAD
 En este caso, repositorio 1, metemos una linea aki para que haya conflictos.
 
 Este es un fichero ejemplo que vamos a tener (por aki tb metemos)conflictos
+=======
+Este es un fichero ejemplo que vamos a tener conflictos. En este metemos una linea al final, del repositorio2.
+>>>>>>> 6f15aab69460732c6e49dd79f9823b5277d4ea86
