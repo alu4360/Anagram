@@ -1,1 +1,3 @@
-Este es un fichero ejemplo que vamos a tener conflictos
+En este caso, repositorio 1, metemos una linea aki para que haya conflictos.
+
+Este es un fichero ejemplo que vamos a tener (por aki tb metemos)conflictos
