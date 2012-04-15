@@ -1,1 +1,1 @@
-Este es un fichero ejemplo que vamos a tener conflictos
+Este es un fichero ejemplo que vamos a tener conflictos. En este metemos una linea al final, del repositorio2.
