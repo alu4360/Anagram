@@ -1,2 +1,3 @@
 Creamos este fichero en chuchu, para hacer el rebase.
 Ahora hacemos otro commit.
+Ahora otro tras el rebase.
