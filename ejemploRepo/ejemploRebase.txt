@@ -1,2 +1,3 @@
 Probamos el rebase con otro commit.
 Esto es para probar el rebase.
+Otro commit tras el rebase en chuchu.
