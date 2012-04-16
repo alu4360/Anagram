@@ -1,2 +1,2 @@
-Este es un ejemplo de fichero para subir al repositorio.
+Probamos el rebase con otro commit.
 Esto es para probar el rebase.
