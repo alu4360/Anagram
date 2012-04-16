@@ -1,0 +1,2 @@
+Este es un ejemplo de fichero para subir al repositorio.
+Esto es para probar el rebase.
